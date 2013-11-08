@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">omy</string>
+    <string name="edit_message">Write Message</string>
+    <string name="button_send">Send Msg</string>
+    <string name="title_activity_display_message">My Message</string>
+</resources>
